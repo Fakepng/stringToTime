@@ -1,0 +1,22 @@
+{
+  "name": "string-to-time",
+  "version": "1.0.0",
+  "description": "Convert a user friendly string to time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fakepng/stringToTime.git"
+  },
+  "keywords": [
+    "convert-string-to-time"
+  ],
+  "author": "Fakepng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fakepng/stringToTime/issues"
+  },
+  "homepage": "https://github.com/Fakepng/stringToTime#readme"
+}
