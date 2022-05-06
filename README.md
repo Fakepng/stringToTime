@@ -24,6 +24,15 @@ console.log(stringToTime("1Y"));
 
 console.log(stringToTime("1Y2M3W4D5h6m7s"));
 // { years: 1, months: 2, weeks: 3, days: 4, hours: 5, minutes: 6, seconds: 7 }
+
+console.log(stringToTime("1Y2M3W4D5h6m7s").days);
+// 4
+
+console.log(stringToTime("8D2h").hours);
+// 2
+
+console.log(stringToTime(""));
+// { years: 0, months: 0, weeks: 0, days: 0, hours: 0, minutes: 0, seconds: 0 }
 ```
 
 # License
