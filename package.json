@@ -1,6 +1,6 @@
 {
   "name": "@fakepng/string-to-time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert a user friendly string to time",
   "main": "index.js",
   "scripts": {
