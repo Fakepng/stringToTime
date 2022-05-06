@@ -1,5 +1,9 @@
 # @fakepng/string-to-time
 
+![npm](https://img.shields.io/npm/v/@fakepng/string-to-time)
+![license](https://img.shields.io/npm/l/@fakepng/string-to-time)
+![minified size](https://img.shields.io/bundlephobia/min/@fakepng/string-to-time)
+
 Convert a user friendly string to time. Like: 1Y, 1M, 1W, 1D, 1H, 1M, 1S.
 
 # Installation
