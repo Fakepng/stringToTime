@@ -16,6 +16,8 @@ $ npm install @fakepng/string-to-time
 
 ## Node
 
+> String must be in descending order.
+
 ```js
 const stringToTime = require("@fakepng/string-to-time");
 
