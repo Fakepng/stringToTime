@@ -37,6 +37,24 @@ console.log(stringToTime(""));
 // { years: 0, months: 0, weeks: 0, days: 0, hours: 0, minutes: 0, seconds: 0 }
 ```
 
+# Release history
+
+## 1.2.0
+
+- Fixed issue with logic.
+
+## 1.1.0
+
+- Beautify README.md
+
+## 1.0.0
+
+- Initial release
+
+# Buy me a coffee
+
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # License
 
 MIT License
